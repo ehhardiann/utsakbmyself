@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ehhardiannapss</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_daily">Daily Acitivty</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_music">Music</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="nama_saya">Ardian Julianto Sagala</string>
+    <string name="motivasi">Hayu Ga Hayu Ga Dulur</string>
+    <string name="interest">Interest</string>
+    <string name="dec_home">Nama Saya Ardian Julianto Sagala, 20 tahun, Lahir di Jambi dan tinggal di Cimahi,
+        Saya mahasiswa di Universitas Komputer Indonesia Fakultas Teknik dan Ilmu Komputer,
+        Jurusan Teknik Informatika Semester 6.
+    </string>
+    <string name="dec_home2">Saya merupakan anak 1 dari 3 bersaudara.
+    </string>
+
+    <string name="friends_list">Friends List</string>
+
+
+    <string name="ig_akun"><a href="https://www.instagram.com/ehhardiann">ehhardiann</a></string>
+    <string name="fb_akun"><a href="https://www.facebook.com/ardianjulianto">ArdianJulianto</a></string>
+
+</resources>
